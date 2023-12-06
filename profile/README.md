@@ -1,12 +1,14 @@
-## Hi there 👋
+# Toucan.ink
+## Which things we develop?
+For the moment all are just a few projects. We expect to grow bigger in a future.
+We like ot make use of a variety of tech stacks and experiment with them.
 
-<!--
+If we can code something and is viable for our business, we will do it. No doubts.
 
-**Here are some ideas to get you started:**
+## Founder
+Just check the few public repositories of our founder [@DevPaski](https://github.com/devpaski).
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## Socials
+- 🐦 [Pirp](https://x.com/toucan_ink)
+- 📷 [Click!](https://instagram.com/toucan_ink)
+- 🕸️ [Web](https://toucan.ink) 🚧 **UNDER MAINTENANCE** 🚧
