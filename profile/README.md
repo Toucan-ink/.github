@@ -12,3 +12,4 @@ Just check the few public repositories of our founder [@DevPaski](https://github
 - 🐦 [Pirp](https://x.com/toucan_ink)
 - 📷 [Click!](https://instagram.com/toucan_ink)
 - 🕸️ [Web](https://toucan.ink) 🚧 **UNDER MAINTENANCE** 🚧
+- 📰 [Blog](https://medium.toucan.ink)
